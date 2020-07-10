@@ -5,3 +5,6 @@ A repo containing all the projects as part of the program.
 - Query data from SQL database and subsequently export it as CSV file.
 - Clean the data and calculate moving averages since it is time series data.
 - Plot the moving averages comparing global temperatures and local temperatures of a given city.
+
+#### Temperature Plot created in Tableau
+![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Weather%20Trends%20Dashboard.png)
