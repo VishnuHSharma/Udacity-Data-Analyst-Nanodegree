@@ -13,3 +13,6 @@ A repo containing all the projects as part of the program.
  - Gather and assess a dataset and identify rudimentary errors that need to be remedied.
  - Clean the data and get it ready for the exploratory data analysis phase.
  - Utilize charts appropriately in order to convey information that is required.
+
+#### Are Movie runtimes getting longer or shorter?
+![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Runtime%20chart.png)
