@@ -16,3 +16,6 @@ A repo containing all the projects as part of the program.
 
 #### Are Movie runtimes getting longer or shorter?
 ![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Runtime%20chart.png)
+
+#### Who are the directors who have directed the most movies?
+![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Movie%20directed%20counts.png)
