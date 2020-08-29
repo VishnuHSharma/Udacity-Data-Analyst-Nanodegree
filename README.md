@@ -21,3 +21,4 @@ A repo containing all the projects as part of the program.
 ![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Movie%20directed%20counts.png)
 
 #### Project 3 - Analyzing A/b Test Results
+- Perform statistical analysis via bootstrapping to determine if a company should implement a new webpage using A/B testing.
