@@ -23,3 +23,5 @@ A repo containing all the projects as part of the program.
 #### Project 3 - Analyzing A/b Test Results
 - Perform statistical analysis via bootstrapping to determine if a company should implement a new webpage using A/B testing.
 - Accept or Reject the Null Hypothesis and make a conclusion of whether the company should implemement the new page.
+#### Histogram after implementing the bootstrap method to get an estimate of the distribution
+![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/histogram%20bootstrap.png)
